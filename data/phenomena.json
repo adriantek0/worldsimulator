@@ -1,0 +1,27 @@
+{
+    "earthquake": {
+        "maxKills": 500,
+        "minKills": 10,
+        "message": "Ha ocurrido un terremoto en {ciudad}: han muerto {personas} personas"
+    },
+    "nuclearattack": {
+        "maxKills": 2000,
+        "minKills": 400,
+        "message": "{countryattack} ha atacado nuclearmente {ciudad}: han muerto {personas} personas"
+    },
+    "attack": {
+        "maxKills": 20,
+        "minKills": 10,
+        "message": "{countryattack} ha atacado {ciudad}: han muerto {personas} militares"
+    },
+    "tsunami": {
+        "maxKills": 500,
+        "minKills": 100,
+        "message": "Un tsunami ha arrasado {ciudad}: murieron {personas} personas"
+    },
+    "invasion": {
+        "maxKills": 50,
+        "minKills": 10,
+        "message": "{countryattack} ha invadido {ciudad}: han muerto {personas} militares"
+    }
+}

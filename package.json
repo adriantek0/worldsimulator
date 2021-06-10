@@ -1,0 +1,22 @@
+{
+  "name": "worldsimulator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "node-random-name": "^1.0.1",
+    "quick.db": "^7.1.3",
+    "random-city-from-list": "^1.1.0",
+    "random-country-name": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "adriantek0",
+  "license": "ISC"
+}

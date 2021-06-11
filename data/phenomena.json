@@ -23,5 +23,10 @@
         "maxKills": 50,
         "minKills": 10,
         "message": "{countryattack} ha invadido {ciudad}: han muerto {personas} militares"
+    },
+    "nuclear_power_meltdown": {
+        "maxKills": 1600,
+        "minKills": 700,
+        "message": "El reactor {numero} de la central nuclear {nuclear_plant_name} se ha fusionado: han muerto {personas} civiles."
     }
 }
